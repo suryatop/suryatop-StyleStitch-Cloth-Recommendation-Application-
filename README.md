@@ -40,8 +40,10 @@ This project is a **Fashion Recommender System** that uses a deep learning model
    cd <repository_name>
 2. Create a directory named images and add fashion item images for data set:
    https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
-3.Generate embeddings:
-  python app.py
-4.Run the Streamlit app:
-  streamlit run main.py
-  Access the app in your browser at http://localhost:8501.
+   
+4. Generate embeddings:
+   python app.py
+   
+6. Run the Streamlit app:
+   streamlit run main.py
+   Access the app in your browser at http://localhost:8501.
