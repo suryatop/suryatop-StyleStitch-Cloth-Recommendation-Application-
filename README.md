@@ -36,8 +36,8 @@ This project is a **Fashion Recommender System** that uses a deep learning model
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/suryatop/suryatop-StyleStitch-Cloth-Recommendation-Application-
+   cd suryatop-StyleStitch-Cloth-Recommendation-Application-
 2. Create a directory named images and add fashion item images for data set:
    https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset
    
